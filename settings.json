@@ -1,0 +1,116 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "redhat.telemetry.enabled": false,
+    "gitweblinks.gitHubEnterprise": [
+        {
+            "http": "https://github.picnichealth.com",
+            "ssh": "git@github.picnichealth.com"
+        }
+    ],
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "sqltools.autoConnectTo": "",
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "[terraform]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "hashicorp.terraform"
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.crd-code-completion": "enabled"
+    },
+    "explorer.autoReveal": false,
+    "workbench.startupEditor": "none",
+    "git.confirmSync": false,
+    "[sql]": {},
+    "editor.minimap.autohide": true,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "python.formatting.provider": "black",
+    "python.linting.mypyEnabled": true,
+    "python.testing.unittestEnabled": true,
+    "[helm]": {},
+    "terminal.integrated.scrollback": 100000,
+    "editor.minimap.enabled": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "github-enterprise.uri": "https://github.picnichealth.com",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false
+    },
+    "github.copilot.advanced": {
+        "debug.testOverrideProxyUrl": "https://copilot.build.picnichealth.com",
+        "debug.overrideProxyUrl": "https://copilot.build.picnichealth.com"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "markdownlint.config": {
+        "blanks-around-fences": false,
+        "blanks-around-headings": false,
+        "blanks-around-lists": false
+    },
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "yaml.maxItemsComputed": 10000,
+    "yaml.format.proseWrap": "always",
+    "eslint.format.enable": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "typescript.format.semicolons": "insert",
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "cloudcode.autoDependencies": "off",
+    "cloudcode.project": "local-184120",
+    "cloudcode.duetAI.enable": true,
+    "cloudcode.duetAI.languages": [
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonl",
+        "terraform",
+        "css",
+        "html",
+        "makefile",
+        "markdown",
+        "python",
+        "tf",
+        "typescript",
+        "typescriptreact",
+        "yaml"
+    ],
+    "cloudcode.duetAI.project": "local-184120",
+    "cloudcode.enableTelemetry": false,
+    "editor.renderWhitespace": "all",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.tokenColorCustomizations": {},
+    "graphql-config.dotEnvPath": "",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle",
+    "typescript.preferences.preferTypeOnlyAutoImports": true,
+    "remote.autoForwardPortsSource": "hybrid",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
