@@ -1,0 +1,8 @@
+[alias]
+  wip = "!git add .; git commit -m WIP"
+[core]
+  editor = vim
+[pull]
+  rebase = false
+[push]
+  default = current
